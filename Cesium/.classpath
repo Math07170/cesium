@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jar/EssentialsX-2.16.1.169.jar"/>
+	<classpathentry kind="lib" path="C:/jar/EasyInventory-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/jar/Factions(1).jar"/>
+	<classpathentry kind="lib" path="C:/jar/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="C:/jar/spigot.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/jar/ViaVersion-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jar/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/jar/GroupManager.jar"/>
+	<classpathentry kind="lib" path="C:/jar/CesiumArmor.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

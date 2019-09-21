@@ -1,0 +1,41 @@
+name: Cesium
+version: 1.0
+authors: [Math07170, Redstonneur1256, Flurzox]
+main: fr.cesium.Cesium
+depend: [ViaVersion, MassiveCore, Factions]
+commands:
+  staff:
+    description: Active le staff mod
+    permission: moderator
+  shop:
+    description: Ouvre la boutique
+  topluck:
+    description: Ouvre le topluck
+    permission: moderator
+  vanish:
+    descirption: Vanish
+    permission: moderator
+  freeze:
+    description: freeze
+    permission: moderator
+  ss:
+    description: ss
+    permission: moderator
+  debug: 
+  minage:
+    description: Teleporte au minage
+  alert:
+    description: Alert
+  help:
+    description: Help
+  ver:
+    description: Anti /ver usebug pl
+  cesiumchest:
+    description: Ouvre le Cesium Chest
+  chestlvlup:
+    description: Maraboute ta famille
+  mutechat:
+    description: mute le chat
+  ptp:
+    description: teleport to a player
+    permission: moderator
